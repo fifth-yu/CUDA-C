@@ -1,0 +1,1 @@
+add_executable(add_vector ../cuda_util/cuda_util.c add_vector.cu)
